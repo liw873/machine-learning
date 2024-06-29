@@ -50,3 +50,8 @@ std_mse = np.std(mse_list)
 
 print(f'Mean MSE: {mean_mse}')
 print(f'Standard Deviation of MSE: {std_mse}')
+
+
+## result
+## Mean MSE: 290.6503496176997
+## Standard Deviation of MSE: 247.1014364597707
